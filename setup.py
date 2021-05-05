@@ -9,7 +9,7 @@ setup(
     name='catsart',
     description='Prints Random Cats Ascii Arts',
     author='nandydark',
-    version='1.0',
+    version='6.0',
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Operating System :: POSIX",
