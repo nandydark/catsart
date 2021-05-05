@@ -27,7 +27,7 @@ setup(
     install_requires=[],
     entry_points={
         'console_scripts': [
-            'cats = catsart.__main__:main',
+            'catsart = catsart.__main__:main',
         ],
     },
 )
